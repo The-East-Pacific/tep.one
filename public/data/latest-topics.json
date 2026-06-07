@@ -1,7 +1,13 @@
 {
-  "updated": "2026-06-07T14:01:53.295Z",
+  "updated": "2026-06-07T19:38:01.452Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "Welcome Utopia",
+      "url": "https://forum.theeastpacific.com/t/welcome-utopia/19865",
+      "author": "Utopia",
+      "date": "2026-06-07"
+    },
     {
       "title": "[RP-2026-30] Repeal of the Inter-Regional Chat Treaty",
       "url": "https://forum.theeastpacific.com/t/rp-2026-30-repeal-of-the-inter-regional-chat-treaty/19864",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/proposal-repeal-condemn-vandoosa/19841",
       "author": "Bai_Lung",
       "date": "2026-05-28"
-    },
-    {
-      "title": "[PASSED] Repeal: “Responsible Land Management”",
-      "url": "https://forum.theeastpacific.com/t/passed-repeal-responsible-land-management/19840",
-      "author": "Bai_Lung",
-      "date": "2026-05-27"
     }
   ]
 }
