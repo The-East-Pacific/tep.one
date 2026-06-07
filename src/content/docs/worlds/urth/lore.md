@@ -1,23 +1,14 @@
 ---
-title: Urth
-description: A richly detailed alternate Earth where every player shapes the course of nations, alliances, and history.
+title: Lore · Urth
+description: The world of Urth — its history, geography, and peoples.
 ---
 
-Urth is a nation roleplay set in an alternate Earth. Players create nations, develop their cultures and governments, and interact with other nations through diplomacy, trade, conflict, and cooperation.
+Urth's world is shaped by its players. This page is a starting point for documenting what's been built.
 
-## What you'll find here
+## Suggested sections to add
 
-- **Rich worldbuilding** — detailed geography, history, and politics
-- **Player-driven narrative** — every player contributes to the world's evolution
-- **Diverse nations** — from small principalities to global superpowers
-
-## Get involved
-
-Urth is open to new players. Whether you want to lead a great power, found a tiny island nation, or anything in between, there's a place for you.
-
----
-
-## Pages in this section
-
-- [Lore](/worlds/urth/lore/) — the world of Urth
-- [Governance](/worlds/urth/governance/) — how nations are organized
+- The alternate history divergence point
+- Major continents and regions
+- Notable civilizations and cultures
+- Current era events
+- Player-created lore references
