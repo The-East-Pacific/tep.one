@@ -1,0 +1,109 @@
+/* ============================================================
+   Tep Worlds brand overrides for Starlight
+   This file is loaded after Starlight's defaults,
+   so anything we declare here wins.
+   ============================================================ */
+
+/* Brand palette */
+:root {
+  --tep-green:       #1A6F34;
+  --tep-green-light: #2A8C4A;
+  --tep-yellow:      #F5E423;
+  --tep-teal:        #6EA7A1;
+  --tep-dark:        #281F24;
+  --tep-dark-deep:   #1a1418;
+  --tep-light:       #F2F2F0;
+  --tep-muted:       #B8B0B6;
+  --tep-dim:         #7A7077;
+}
+
+/* Starlight uses these CSS variables. We override them
+   to point at our brand colors. */
+:root {
+  /* Accent: yellow for primary actions, highlights, focus rings */
+  --sl-color-accent-low:    #4a4410;
+  --sl-color-accent:        var(--tep-yellow);
+  --sl-color-accent-high:   #f8ee5e;
+
+  /* Backgrounds */
+  --sl-color-bg:            var(--tep-dark);
+  --sl-color-bg-nav:        rgba(40, 31, 36, 0.8);
+  --sl-color-bg-sidebar:    var(--tep-dark-deep);
+  --sl-color-bg-inline-code:#3D3340;
+  --sl-color-bg-accent:     rgba(245, 228, 35, 0.12);
+
+  /* Text */
+  --sl-color-white:         var(--tep-light);
+  --sl-color-gray-1:        #D8D2D6;
+  --sl-color-gray-2:        var(--tep-muted);
+  --sl-color-gray-3:        var(--tep-dim);
+  --sl-color-gray-5:        #2a2429;
+  --sl-color-gray-6:        var(--tep-dark-deep);
+  --sl-color-black:         var(--tep-dark-deep);
+
+  /* Custom typography */
+  --sl-font: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --sl-font-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+}
+
+/* Make headings pop with a more distinctive display font */
+:root {
+  --sl-font-system: 'Inter', system-ui, sans-serif;
+  --__sl-font: 'Space Grotesk', 'Inter', system-ui, sans-serif;
+}
+
+/* Load Space Grotesk for headings */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
+
+/* Apply the display font to headings */
+.sl-markdown-content h1,
+.sl-markdown-content h2,
+.sl-markdown-content h3,
+.sl-markdown-content h4,
+.sl-markdown-content h5,
+.sl-markdown-content h6,
+.sl-anchor-link,
+.content-panel h1,
+.hero h1 {
+  font-family: 'Space Grotesk', 'Inter', system-ui, sans-serif !important;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+}
+
+/* Subtle accent on inline links */
+.sl-markdown-content a:not(:hover) {
+  color: var(--tep-teal);
+}
+
+/* Sidebar styling */
+starlight-menu-button + nav,
+nav.sl-nav {
+  background: rgba(40, 31, 36, 0.7);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(242, 242, 240, 0.06);
+}
+
+/* Card-style link cards (used on the homepage) */
+.card {
+  background: var(--tep-dark-deep) !important;
+  border: 1px solid rgba(242, 242, 240, 0.08) !important;
+  border-radius: 14px !important;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+.card:hover {
+  border-color: var(--tep-yellow) !important;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4), 0 0 60px rgba(245, 228, 35, 0.08) !important;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: var(--tep-dark-deep); }
+::-webkit-scrollbar-thumb { background: #4a4046; border-radius: 5px; }
+::-webkit-scrollbar-thumb:hover { background: var(--tep-yellow); }
+
+/* Selection color */
+::selection {
+  background: var(--tep-yellow);
+  color: var(--tep-dark-deep);
+}
