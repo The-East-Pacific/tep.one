@@ -1,0 +1,72 @@
+---
+title: Tep Worlds
+description: A community of worldbuilders, diplomats, and storytellers.
+template: splash
+hero:
+  tagline: |
+    Three worlds. One community.<br/>
+    What story will you craft?
+  image:
+    file: ../../assets/logo.svg
+  actions:
+    - text: Explore the worlds
+      link: /worlds/tep/overview/
+      icon: right-arrow
+      variant: primary
+    - text: Join Discord
+      link: https://discord.com/channels/633351482128728064
+      icon: external
+      variant: secondary
+---
+
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+import DiscordWidget from '../../components/DiscordWidget.astro';
+import ForumFeed from '../../components/ForumFeed.astro';
+
+## Our worlds
+
+<CardGrid stagger>
+  <Card title="The East Pacific" icon="earth">
+    The founding world — a long-running NationStates region with deep lore, active governance, and a vibrant community culture.
+    
+    [Enter The East Pacific →](/worlds/tep/overview/)
+  </Card>
+  
+  <Card title="Urth" icon="globe">
+    A richly detailed alternate Earth where every player shapes the course of nations, alliances, and history.
+    
+    [Enter Urth →](/worlds/urth/overview/)
+  </Card>
+  
+  <Card title="Valsora" icon="open-book">
+    A sprawling narrative unfolding on the TEP Regional Message Board, woven together one post at a time.
+    
+    [Enter Valsora →](/worlds/valsora/overview/)
+  </Card>
+</CardGrid>
+
+## Community
+
+<CardGrid>
+  <Card title="Forum" icon="comment">
+    Long-form discussion, world lore, and announcements live on our Discourse.
+    
+    [Visit forum.theeastpacific.com →](https://forum.theeastpacific.com)
+  </Card>
+  
+  <Card title="Discord" icon="discord">
+    Day-to-day chatter, planning, and the kind of plotting that doesn't fit anywhere else.
+    
+    [Join the Discord →](https://discord.com/channels/633351482128728064)
+  </Card>
+  
+  <Card title="Shortlinks" icon="external">
+    Quick links to community resources via our Rebrandly shortlink service.
+    
+    [Visit tep.tl →](https://tep.tl)
+  </Card>
+</CardGrid>
+
+## Latest from the forum
+
+<ForumFeed />
