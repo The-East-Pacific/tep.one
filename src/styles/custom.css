@@ -116,3 +116,74 @@ nav.sl-nav {
 
 ::selection { background: var(--tep-yellow); color: var(--tep-dark-deep); }
 :root[data-theme='light'] ::selection { background: var(--tep-green); color: white; }
+/* ===== Light theme fixes for custom elements ===== */
+:root[data-theme='light'] .discord-widget {
+  border-color: rgba(0, 0, 0, 0.12) !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08) !important;
+}
+
+:root[data-theme='light'] .tep-footer {
+  background: #efece4 !important;
+  border-top: 1px solid rgba(0, 0, 0, 0.08) !important;
+}
+
+:root[data-theme='light'] .tep-footer-brand {
+  color: #1a1418 !important;
+}
+
+:root[data-theme='light'] .tep-footer-links a {
+  color: #4a4046 !important;
+}
+
+:root[data-theme='light'] .tep-footer-links a:hover {
+  color: var(--tep-green) !important;
+}
+
+:root[data-theme='light'] .tep-footer-copy {
+  color: #6a6066 !important;
+}
+
+:root[data-theme='light'] .forum-feed {
+  background: #ffffff !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04) !important;
+}
+
+:root[data-theme='light'] .forum-feed li {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06) !important;
+}
+
+:root[data-theme='light'] .forum-feed li:hover {
+  background: #f8f6f0 !important;
+}
+
+:root[data-theme='light'] .forum-feed a {
+  color: #1a1418 !important;
+}
+
+:root[data-theme='light'] .forum-feed a:hover {
+  color: var(--tep-green) !important;
+}
+
+:root[data-theme='light'] .forum-meta {
+  color: #6a6066 !important;
+}
+
+:root[data-theme='light'] .forum-empty {
+  color: #6a6066 !important;
+}
+
+:root[data-theme='light'] .forum-empty a {
+  color: var(--tep-green) !important;
+}
+
+/* Search bar light mode */
+:root[data-theme='light'] .DocSearch-Button,
+:root[data-theme='light'] .search-input,
+:root[data-theme='light'] site-search button,
+:root[data-theme='light'] [class*='search'] button,
+:root[data-theme='light'] [class*='Search'] button {
+  background: #ffffff !important;
+  color: #1a1418 !important;
+  border: 1px solid rgba(0, 0, 0, 0.12) !important;
+}
