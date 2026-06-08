@@ -10,7 +10,7 @@ export default defineConfig({
       title: 'Tep Worlds',
       description: 'A community of worldbuilders, diplomats, and storytellers. Home to The East Pacific, Urth, and Valsora.',
       logo: {
-        src: './src/assets/logo.svg',
+        src: './src/assets/logo.png',
         replacesTitle: false,
       },
       favicon: '/favicon.svg',
