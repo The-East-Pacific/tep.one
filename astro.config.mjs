@@ -18,9 +18,10 @@ export default defineConfig({
       components: {
         Footer: './src/components/Footer.astro',
       },
-      social: [
-        { icon: 'discord', label: 'Discord', href: 'https://discord.com/channels/633351482128728064' },
-      ],
+         social: {
+        discord: 'https://discord.com/channels/633351482128728064',
+      },
+
       editLink: {
         baseUrl: 'https://github.com/the-east-pacific/tepone/edit/main/',
       },
