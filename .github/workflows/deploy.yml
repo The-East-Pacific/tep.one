@@ -5,10 +5,10 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: '0 */3 * * *' # every 3 hours
+    - cron: '0 */3 * * *'
 
 permissions:
-  contents: write # needed to push the sync commit
+  contents: write
   pages: write
   id-token: write
 
@@ -18,13 +18,14 @@ concurrency:
 
 jobs:
   sync-and-build:
-    if: github.actor!= 'github-actions[bot]' # prevent infinite loop
+    if: github.actor!= 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -38,10 +39,12 @@ jobs:
       - name: Sync Discourse topics
         run: node scripts/sync-discourse.mjs
         env:
-          # add if you need an API key later
           NODE_ENV: production
 
-      - name: Commit changes
+      - name: Build site
+        run: npm run build
+
+      - name: Commit new topics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -50,11 +53,8 @@ jobs:
             git commit -m "chore: sync forum topics [skip ci]"
             git push
           else
-            echo "No changes to commit"
+            echo "No changes"
           fi
-
-      - name: Build site
-        run: npm run build
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
