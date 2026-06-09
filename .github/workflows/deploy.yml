@@ -46,7 +46,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          if! git diff --cached --quiet; then
+          if ! git diff --cached --quiet; then
             git commit -m "chore: sync forum topics [skip ci]"
             git push
           else
