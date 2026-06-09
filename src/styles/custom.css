@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@400;600&display=swap');
+
 :root {
   --tep-green:       #1A6F34;
   --tep-green-light: #2A8C4A;
@@ -9,8 +11,6 @@
   --tep-muted:       #B8B0B6;
   --tep-dim:         #7A7077;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
 
 /* ===== Dark theme (default) ===== */
 :root {
