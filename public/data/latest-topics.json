@@ -1,7 +1,13 @@
 {
-  "updated": "2026-06-10T12:11:53.500Z",
+  "updated": "2026-06-10T15:43:54.839Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "Antilias Claim",
+      "url": "https://forum.theeastpacific.com/t/antilias-claim/19872",
+      "author": "estyquesada",
+      "date": "2026-06-10"
+    },
     {
       "title": "Welcome Liberza",
       "url": "https://forum.theeastpacific.com/t/welcome-liberza/19870",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/passed-repeal-access-to-life-saving-drugs/19860",
       "author": "Bai_Lung",
       "date": "2026-06-04"
-    },
-    {
-      "title": "Welcome henom17",
-      "url": "https://forum.theeastpacific.com/t/welcome-henom17/19849",
-      "author": "henom17",
-      "date": "2026-06-01"
     }
   ]
 }
