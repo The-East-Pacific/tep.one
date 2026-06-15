@@ -1,7 +1,13 @@
 {
-  "updated": "2026-06-15T12:24:03.675Z",
+  "updated": "2026-06-15T14:52:44.123Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[T-2026-31] Ratification of The Laputan Compact",
+      "url": "https://forum.theeastpacific.com/t/t-2026-31-ratification-of-the-laputan-compact/19879",
+      "author": "Ladona",
+      "date": "2026-06-15"
+    },
     {
       "title": "[PROPOSAL] Repeal \"Condemn Lone Wolves United\"",
       "url": "https://forum.theeastpacific.com/t/proposal-repeal-condemn-lone-wolves-united/19878",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/passed-repeal-privacy-protection-act/19866",
       "author": "Bai_Lung",
       "date": "2026-06-08"
-    },
-    {
-      "title": "Welcome Utopia",
-      "url": "https://forum.theeastpacific.com/t/welcome-utopia/19865",
-      "author": "Utopia",
-      "date": "2026-06-07"
     }
   ]
 }
