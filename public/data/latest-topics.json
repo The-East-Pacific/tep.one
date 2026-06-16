@@ -1,7 +1,13 @@
 {
-  "updated": "2026-06-16T08:36:47.761Z",
+  "updated": "2026-06-16T11:19:06.359Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[PROPOSAL] Repeal: “Nuclear Testing Protocol”",
+      "url": "https://forum.theeastpacific.com/t/proposal-repeal-nuclear-testing-protocol/19881",
+      "author": "Bai_Lung",
+      "date": "2026-06-16"
+    },
     {
       "title": "Operation Lightning Plains",
       "url": "https://forum.theeastpacific.com/t/operation-lightning-plains/19880",
@@ -33,8 +39,8 @@
       "date": "2026-06-13"
     },
     {
-      "title": "[PROPOSAL] Repeal: “The Right to a Lawful Divorce”",
-      "url": "https://forum.theeastpacific.com/t/proposal-repeal-the-right-to-a-lawful-divorce/19874",
+      "title": "[PASSED] Repeal: “The Right to a Lawful Divorce”",
+      "url": "https://forum.theeastpacific.com/t/passed-repeal-the-right-to-a-lawful-divorce/19874",
       "author": "Bai_Lung",
       "date": "2026-06-12"
     },
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/welcome-estyquesada/19869",
       "author": "estyquesada",
       "date": "2026-06-09"
-    },
-    {
-      "title": "[PASSED] Commend Brethren",
-      "url": "https://forum.theeastpacific.com/t/passed-commend-brethren/19867",
-      "author": "Bai_Lung",
-      "date": "2026-06-08"
     }
   ]
 }
