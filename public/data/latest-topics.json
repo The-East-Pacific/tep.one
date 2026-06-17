@@ -1,7 +1,13 @@
 {
-  "updated": "2026-06-16T22:46:13.009Z",
+  "updated": "2026-06-17T02:13:34.449Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[A-2026-32] Amendment to the Endorsement Caps Act",
+      "url": "https://forum.theeastpacific.com/t/a-2026-32-amendment-to-the-endorsement-caps-act/19883",
+      "author": "Ladona",
+      "date": "2026-06-16"
+    },
     {
       "title": "[PROPOSAL] Repeal: “Nuclear Testing Protocol”",
       "url": "https://forum.theeastpacific.com/t/proposal-repeal-nuclear-testing-protocol/19881",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/welcome-liberza/19870",
       "author": "Liberza",
       "date": "2026-06-10"
-    },
-    {
-      "title": "Welcome estyquesada",
-      "url": "https://forum.theeastpacific.com/t/welcome-estyquesada/19869",
-      "author": "estyquesada",
-      "date": "2026-06-09"
     }
   ]
 }
