@@ -1,7 +1,13 @@
 {
-  "updated": "2026-06-19T21:56:44.088Z",
+  "updated": "2026-06-20T02:00:43.638Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[SOA] HOGS Update and New Vote Category",
+      "url": "https://forum.theeastpacific.com/t/soa-hogs-update-and-new-vote-category/19889",
+      "author": "Ladona",
+      "date": "2026-06-20"
+    },
     {
       "title": "[PROPOSAL] Repeal: “Injunct Empires Forever United”",
       "url": "https://forum.theeastpacific.com/t/proposal-repeal-injunct-empires-forever-united/19887",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/nomination-citizenship-official-waterfall-state-dimitri/19877",
       "author": "Sammy23",
       "date": "2026-06-14"
-    },
-    {
-      "title": "[Resignation] Cappedore",
-      "url": "https://forum.theeastpacific.com/t/resignation-cappedore/19876",
-      "author": "Cappedore",
-      "date": "2026-06-13"
     }
   ]
 }
