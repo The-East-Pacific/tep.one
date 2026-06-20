@@ -1,7 +1,13 @@
 {
-  "updated": "2026-06-20T14:11:35.373Z",
+  "updated": "2026-06-20T16:10:04.332Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "Welcome Serent",
+      "url": "https://forum.theeastpacific.com/t/welcome-serent/19892",
+      "author": "Serent",
+      "date": "2026-06-20"
+    },
     {
       "title": "[PROPOSAL] Repeal: “Combating International Piracy”",
       "url": "https://forum.theeastpacific.com/t/proposal-repeal-combating-international-piracy/19891",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/operation-lightning-plains/19880",
       "author": "American-Cascadia",
       "date": "2026-06-16"
-    },
-    {
-      "title": "[T-2026-31] Ratification of The Laputan Compact",
-      "url": "https://forum.theeastpacific.com/t/t-2026-31-ratification-of-the-laputan-compact/19879",
-      "author": "Ladona",
-      "date": "2026-06-15"
     }
   ]
 }
