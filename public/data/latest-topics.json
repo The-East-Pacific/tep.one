@@ -1,7 +1,13 @@
 {
-  "updated": "2026-06-27T21:50:29.248Z",
+  "updated": "2026-06-28T02:02:53.572Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[SOA] Mandatory Scheduled Roll Calls",
+      "url": "https://forum.theeastpacific.com/t/soa-mandatory-scheduled-roll-calls/19908",
+      "author": "Cappedore",
+      "date": "2026-06-27"
+    },
     {
       "title": "[SOA] Recently Voted Protection from Suspension",
       "url": "https://forum.theeastpacific.com/t/soa-recently-voted-protection-from-suspension/19907",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/the-laputan-compact/19898",
       "author": "Ladona",
       "date": "2026-06-24"
-    },
-    {
-      "title": "Welcome talvezout",
-      "url": "https://forum.theeastpacific.com/t/welcome-talvezout/19897",
-      "author": "talvezout",
-      "date": "2026-06-23"
     }
   ]
 }
