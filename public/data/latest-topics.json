@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-02T03:53:57.116Z",
+  "updated": "2026-07-02T06:27:49.308Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "Finishing the Journey: Dremaur for Archon, Dremaur for Stability",
+      "url": "https://forum.theeastpacific.com/t/finishing-the-journey-dremaur-for-archon-dremaur-for-stability/19922",
+      "author": "Dremaur",
+      "date": "2026-07-02"
+    },
     {
       "title": "[REFERENDUM] Amendments to Articles B, C, E & F",
       "url": "https://forum.theeastpacific.com/t/referendum-amendments-to-articles-b-c-e-f/19921",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/campaign-mission-accomplished/19909",
       "author": "AC5230",
       "date": "2026-06-28"
-    },
-    {
-      "title": "[SOA] Mandatory Scheduled Roll Calls",
-      "url": "https://forum.theeastpacific.com/t/soa-mandatory-scheduled-roll-calls/19908",
-      "author": "Cappedore",
-      "date": "2026-06-27"
     }
   ]
 }
