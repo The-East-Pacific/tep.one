@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-12T19:09:42.834Z",
+  "updated": "2026-07-12T21:36:49.390Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "Dremlegate Term Executive Awards",
+      "url": "https://forum.theeastpacific.com/t/dremlegate-term-executive-awards/19967",
+      "author": "Dremaur",
+      "date": "2026-07-12"
+    },
     {
       "title": "[ROLL CALL] July 2026 Roll Call",
       "url": "https://forum.theeastpacific.com/t/roll-call-july-2026-roll-call/19966",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/welcome-olruggio/19950",
       "author": "Olruggio",
       "date": "2026-07-07"
-    },
-    {
-      "title": "[Campaign] Elect Domais Archon!",
-      "url": "https://forum.theeastpacific.com/t/campaign-elect-domais-archon/19948",
-      "author": "Domais",
-      "date": "2026-07-06"
     }
   ]
 }
