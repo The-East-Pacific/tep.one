@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-15T10:39:58.515Z",
+  "updated": "2026-07-15T13:02:16.838Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "2026 Delegate Election",
+      "url": "https://forum.theeastpacific.com/t/2026-delegate-election/19970",
+      "author": "Sammy23",
+      "date": "2026-07-15"
+    },
     {
       "title": "End of the Dremlegate Administration Address",
       "url": "https://forum.theeastpacific.com/t/end-of-the-dremlegate-administration-address/19969",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/voting-july-2026-archon-election/19957",
       "author": "A_mean_old_man",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Velonia Claim",
-      "url": "https://forum.theeastpacific.com/t/velonia-claim/19955",
-      "author": "American-Cascadia",
-      "date": "2026-07-08"
     }
   ]
 }
