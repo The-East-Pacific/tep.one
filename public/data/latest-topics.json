@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-18T19:09:57.189Z",
+  "updated": "2026-07-18T21:37:34.737Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[PROPOSAL] World Environmental Treaty",
+      "url": "https://forum.theeastpacific.com/t/proposal-world-environmental-treaty/19981",
+      "author": "Bai_Lung",
+      "date": "2026-07-18"
+    },
     {
       "title": "2026 Delegate Election",
       "url": "https://forum.theeastpacific.com/t/2026-delegate-election/19970",
@@ -15,8 +21,8 @@
       "date": "2026-07-15"
     },
     {
-      "title": "[PROPOSAL] Eliminating Slavery and Trafficking of Persons",
-      "url": "https://forum.theeastpacific.com/t/proposal-eliminating-slavery-and-trafficking-of-persons/19968",
+      "title": "[PASSED] Eliminating Slavery and Trafficking of Persons",
+      "url": "https://forum.theeastpacific.com/t/passed-eliminating-slavery-and-trafficking-of-persons/19968",
       "author": "Bai_Lung",
       "date": "2026-07-15"
     },
@@ -54,12 +60,6 @@
       "title": "Dark Image Test",
       "url": "https://forum.theeastpacific.com/t/dark-image-test/19958",
       "author": "Emjay",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "[VOTING] July 2026 Archon Election",
-      "url": "https://forum.theeastpacific.com/t/voting-july-2026-archon-election/19957",
-      "author": "A_mean_old_man",
       "date": "2026-07-10"
     }
   ]
