@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-28T21:53:43.105Z",
+  "updated": "2026-07-29T01:17:25.134Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "Welcome IslandKush",
+      "url": "https://forum.theeastpacific.com/t/welcome-islandkush/19991",
+      "author": "IslandKush",
+      "date": "2026-07-28"
+    },
     {
       "title": "[PROPOSAL] The World Cup",
       "url": "https://forum.theeastpacific.com/t/proposal-the-world-cup/19990",
@@ -54,12 +60,6 @@
       "title": "2026 Delegate Election",
       "url": "https://forum.theeastpacific.com/t/2026-delegate-election/19970",
       "author": "Sammy23",
-      "date": "2026-07-15"
-    },
-    {
-      "title": "End of the Dremlegate Administration Address",
-      "url": "https://forum.theeastpacific.com/t/end-of-the-dremlegate-administration-address/19969",
-      "author": "Dremaur",
       "date": "2026-07-15"
     }
   ]
