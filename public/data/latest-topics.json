@@ -1,10 +1,16 @@
 {
-  "updated": "2026-08-03T17:03:11.288Z",
+  "updated": "2026-08-03T19:13:31.209Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
     {
-      "title": "[PROPOSAL] Reserved Powers",
-      "url": "https://forum.theeastpacific.com/t/proposal-reserved-powers/19995",
+      "title": "[PROPOSAL] World Assembly Research and Innovation Organization",
+      "url": "https://forum.theeastpacific.com/t/proposal-world-assembly-research-and-innovation-organization/19996",
+      "author": "Bai_Lung",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "[PASSED] Reserved Powers",
+      "url": "https://forum.theeastpacific.com/t/passed-reserved-powers/19995",
       "author": "Bai_Lung",
       "date": "2026-07-30"
     },
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/welcome-collateral101/19984",
       "author": "collateral101",
       "date": "2026-07-23"
-    },
-    {
-      "title": "The Dremaurchon Administration Rises: Government & Opening Address",
-      "url": "https://forum.theeastpacific.com/t/the-dremaurchon-administration-rises-government-opening-address/19983",
-      "author": "Dremaur",
-      "date": "2026-07-21"
     }
   ]
 }
