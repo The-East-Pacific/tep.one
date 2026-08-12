@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-11T21:32:46.501Z",
+  "updated": "2026-08-12T00:50:02.464Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[PROPOSAL] Protecting Places of Cultural Significance",
+      "url": "https://forum.theeastpacific.com/t/proposal-protecting-places-of-cultural-significance/19999",
+      "author": "Bai_Lung",
+      "date": "2026-08-11"
+    },
     {
       "title": "[ROLL CALL] August 2026 Roll Call",
       "url": "https://forum.theeastpacific.com/t/roll-call-august-2026-roll-call/19998",
@@ -9,8 +15,8 @@
       "date": "2026-08-09"
     },
     {
-      "title": "[PROPOSAL] Judicial Access Act",
-      "url": "https://forum.theeastpacific.com/t/proposal-judicial-access-act/19997",
+      "title": "[DEFEATED] Judicial Access Act",
+      "url": "https://forum.theeastpacific.com/t/defeated-judicial-access-act/19997",
       "author": "Bai_Lung",
       "date": "2026-08-07"
     },
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/defeated-bodily-autonomy-and-informed-consent/19989",
       "author": "Bai_Lung",
       "date": "2026-07-27"
-    },
-    {
-      "title": "Welcome Chel4657",
-      "url": "https://forum.theeastpacific.com/t/welcome-chel4657/19988",
-      "author": "Chel4657",
-      "date": "2026-07-25"
     }
   ]
 }
