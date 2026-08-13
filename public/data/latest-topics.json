@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-13T04:42:24.780Z",
+  "updated": "2026-08-13T07:05:58.029Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "Welcome TyBigistan",
+      "url": "https://forum.theeastpacific.com/t/welcome-tybigistan/20007",
+      "author": "TyBigistan",
+      "date": "2026-08-13"
+    },
     {
       "title": "Consul of Treason",
       "url": "https://forum.theeastpacific.com/t/consul-of-treason/20004",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/welcome-islandkush/19991",
       "author": "IslandKush",
       "date": "2026-07-28"
-    },
-    {
-      "title": "[PROPOSAL] The World Cup",
-      "url": "https://forum.theeastpacific.com/t/proposal-the-world-cup/19990",
-      "author": "Bai_Lung",
-      "date": "2026-07-27"
     }
   ]
 }
