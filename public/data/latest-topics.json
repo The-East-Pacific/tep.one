@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-16T09:14:15.885Z",
+  "updated": "2026-08-16T12:12:18.604Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[PROPOSAL] World Assembly Headquarters",
+      "url": "https://forum.theeastpacific.com/t/proposal-world-assembly-headquarters/20016",
+      "author": "Bai_Lung",
+      "date": "2026-08-16"
+    },
     {
       "title": "Public Disclosure Form: TyBigistan",
       "url": "https://forum.theeastpacific.com/t/public-disclosure-form-tybigistan/20015",
@@ -39,8 +45,8 @@
       "date": "2026-08-13"
     },
     {
-      "title": "[PROPOSAL] Protecting Places of Cultural Significance",
-      "url": "https://forum.theeastpacific.com/t/proposal-protecting-places-of-cultural-significance/19999",
+      "title": "[PASSED] Protecting Places of Cultural Significance",
+      "url": "https://forum.theeastpacific.com/t/passed-protecting-places-of-cultural-significance/19999",
       "author": "Bai_Lung",
       "date": "2026-08-11"
     },
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/defeated-judicial-access-act/19997",
       "author": "Bai_Lung",
       "date": "2026-08-07"
-    },
-    {
-      "title": "[PASSED] World Assembly Research and Innovation Organization",
-      "url": "https://forum.theeastpacific.com/t/passed-world-assembly-research-and-innovation-organization/19996",
-      "author": "Bai_Lung",
-      "date": "2026-08-03"
     }
   ]
 }
