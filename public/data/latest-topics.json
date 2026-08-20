@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-20T15:21:24.591Z",
+  "updated": "2026-08-20T18:18:25.574Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "Welcome Miguelsazprice1",
+      "url": "https://forum.theeastpacific.com/t/welcome-miguelsazprice1/20022",
+      "author": "Miguelsazprice1",
+      "date": "2026-08-20"
+    },
     {
       "title": "Welcome lilyparker",
       "url": "https://forum.theeastpacific.com/t/welcome-lilyparker/20021",
@@ -54,12 +60,6 @@
       "title": "Welcome TyBigistan",
       "url": "https://forum.theeastpacific.com/t/welcome-tybigistan/20007",
       "author": "TyBigistan",
-      "date": "2026-08-13"
-    },
-    {
-      "title": "Consul of Treason",
-      "url": "https://forum.theeastpacific.com/t/consul-of-treason/20004",
-      "author": "Norgsveldet",
       "date": "2026-08-13"
     }
   ]
