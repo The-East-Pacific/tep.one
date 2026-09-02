@@ -1,4 +1,4 @@
-# Tep Worlds — Community Portal
+# TEP — Community Portal
 
 The community portal at **tep.one**, built with [Astro](https://astro.build) + [Starlight](https://starlight.astro.build).
 
