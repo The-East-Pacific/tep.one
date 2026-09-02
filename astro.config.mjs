@@ -7,8 +7,8 @@ export default defineConfig({
   site: 'https://tep.one',
   integrations: [
     starlight({
-      title: 'Tep Worlds',
-      description: 'A community of worldbuilders, diplomats, and storytellers. Home to The East Pacific, Urth, and Valsora.',
+      title: 'TEP',
+      description: 'Urth, Valsora and The East Pacific — modern worldbuilding, fantasy roleplay and community. What story will you craft?',
       logo: {
         src: './src/assets/logo.png',
         replacesTitle: false,
