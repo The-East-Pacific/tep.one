@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-12T22:40:45.741Z",
+  "updated": "2026-09-13T01:34:40.940Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[ROLL CALL] September 2026",
+      "url": "https://forum.theeastpacific.com/t/roll-call-september-2026/20078",
+      "author": "Ladona",
+      "date": "2026-09-12"
+    },
     {
       "title": "[PROPOSAL] Space Transport and Astronomical Research",
       "url": "https://forum.theeastpacific.com/t/proposal-space-transport-and-astronomical-research/20075",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/passed-commend-the-kytler-peninsulae/20029",
       "author": "Bai_Lung",
       "date": "2026-08-26"
-    },
-    {
-      "title": "[DEFEATED] Freedom of Religion",
-      "url": "https://forum.theeastpacific.com/t/defeated-freedom-of-religion/20026",
-      "author": "Bai_Lung",
-      "date": "2026-08-24"
     }
   ]
 }
