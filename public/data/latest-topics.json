@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-14T08:09:06.325Z",
+  "updated": "2026-09-14T12:13:16.703Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[PROPOSAL] Repeal: “Liberate Utopia”",
+      "url": "https://forum.theeastpacific.com/t/proposal-repeal-liberate-utopia/20080",
+      "author": "Bai_Lung",
+      "date": "2026-09-14"
+    },
     {
       "title": "[ROLL CALL] September 2026",
       "url": "https://forum.theeastpacific.com/t/roll-call-september-2026/20078",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/resignation-tep-retirement-cappedore/20037",
       "author": "Cappedore",
       "date": "2026-08-27"
-    },
-    {
-      "title": "[PASSED] Commend The Kytler Peninsulae",
-      "url": "https://forum.theeastpacific.com/t/passed-commend-the-kytler-peninsulae/20029",
-      "author": "Bai_Lung",
-      "date": "2026-08-26"
     }
   ]
 }
