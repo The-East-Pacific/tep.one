@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-16T21:02:56.610Z",
+  "updated": "2026-09-16T23:18:31.647Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[PROPOSAL] International Nuclear Compliance Commission",
+      "url": "https://forum.theeastpacific.com/t/proposal-international-nuclear-compliance-commission/20083",
+      "author": "Bai_Lung",
+      "date": "2026-09-16"
+    },
     {
       "title": "[PROPOSAL] Repeal: “Liberate Utopia”",
       "url": "https://forum.theeastpacific.com/t/proposal-repeal-liberate-utopia/20080",
@@ -15,8 +21,8 @@
       "date": "2026-09-12"
     },
     {
-      "title": "[PROPOSAL] Space Transport and Astronomical Research",
-      "url": "https://forum.theeastpacific.com/t/proposal-space-transport-and-astronomical-research/20075",
+      "title": "[PASSED] Space Transport and Astronomical Research",
+      "url": "https://forum.theeastpacific.com/t/passed-space-transport-and-astronomical-research/20075",
       "author": "Bai_Lung",
       "date": "2026-09-12"
     },
@@ -54,12 +60,6 @@
       "title": "[PASSED] Against Torture",
       "url": "https://forum.theeastpacific.com/t/passed-against-torture/20042",
       "author": "Bai_Lung",
-      "date": "2026-08-27"
-    },
-    {
-      "title": "[Resignation & TEP Retirement] Cappedore",
-      "url": "https://forum.theeastpacific.com/t/resignation-tep-retirement-cappedore/20037",
-      "author": "Cappedore",
       "date": "2026-08-27"
     }
   ]
