@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-18T07:39:04.395Z",
+  "updated": "2026-09-18T10:49:24.509Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[PROPOSAL] Repeal: “Commend Vilita and Turori”",
+      "url": "https://forum.theeastpacific.com/t/proposal-repeal-commend-vilita-and-turori/20085",
+      "author": "Bai_Lung",
+      "date": "2026-09-18"
+    },
     {
       "title": "[PROPOSAL] International Nuclear Compliance Commission",
       "url": "https://forum.theeastpacific.com/t/proposal-international-nuclear-compliance-commission/20083",
@@ -9,8 +15,8 @@
       "date": "2026-09-16"
     },
     {
-      "title": "[PROPOSAL] Repeal: “Liberate Utopia”",
-      "url": "https://forum.theeastpacific.com/t/proposal-repeal-liberate-utopia/20080",
+      "title": "[PASSED] Repeal: “Liberate Utopia”",
+      "url": "https://forum.theeastpacific.com/t/passed-repeal-liberate-utopia/20080",
       "author": "Bai_Lung",
       "date": "2026-09-14"
     },
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/passed-no-punishment-without-prior-law/20054",
       "author": "Bai_Lung",
       "date": "2026-08-31"
-    },
-    {
-      "title": "[PASSED] Against Torture",
-      "url": "https://forum.theeastpacific.com/t/passed-against-torture/20042",
-      "author": "Bai_Lung",
-      "date": "2026-08-27"
     }
   ]
 }
