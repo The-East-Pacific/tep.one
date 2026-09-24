@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-23T23:15:28.759Z",
+  "updated": "2026-09-24T01:47:23.313Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "Karishkanov",
+      "url": "https://forum.theeastpacific.com/t/karishkanov/20091",
+      "author": "Art_Sokala",
+      "date": "2026-09-23"
+    },
     {
       "title": "[PROPOSAL] Missing Persons Coordination Act",
       "url": "https://forum.theeastpacific.com/t/proposal-missing-persons-coordination-act/20090",
@@ -54,12 +60,6 @@
       "title": "[DEFEATED] Promoting the Humanities in Education and Research",
       "url": "https://forum.theeastpacific.com/t/defeated-promoting-the-humanities-in-education-and-research/20062",
       "author": "Bai_Lung",
-      "date": "2026-09-04"
-    },
-    {
-      "title": "The Library of Histories - Sokala, Nuesperanza and Iphelklori",
-      "url": "https://forum.theeastpacific.com/t/the-library-of-histories-sokala-nuesperanza-and-iphelklori/20061",
-      "author": "Art_Sokala",
       "date": "2026-09-04"
     }
   ]
