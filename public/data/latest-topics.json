@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-24T16:46:46.500Z",
+  "updated": "2026-09-24T18:42:58.960Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "Public Disclosure Form : Hamborn",
+      "url": "https://forum.theeastpacific.com/t/public-disclosure-form-hamborn/20092",
+      "author": "Poluxia",
+      "date": "2026-09-24"
+    },
     {
       "title": "Karishkanov",
       "url": "https://forum.theeastpacific.com/t/karishkanov/20091",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/passed-spectrum-allocation-and-coordination-act/20069",
       "author": "Bai_Lung",
       "date": "2026-09-08"
-    },
-    {
-      "title": "[DEFEATED] Promoting the Humanities in Education and Research",
-      "url": "https://forum.theeastpacific.com/t/defeated-promoting-the-humanities-in-education-and-research/20062",
-      "author": "Bai_Lung",
-      "date": "2026-09-04"
     }
   ]
 }
