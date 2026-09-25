@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-25T04:07:44.255Z",
+  "updated": "2026-09-25T08:14:07.283Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[ELECTION] Ladona 71",
+      "url": "https://forum.theeastpacific.com/t/election-ladona-71/20094",
+      "author": "Ladona",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "[Election] Nominations for Provost of the 71th Magisterium",
+      "url": "https://forum.theeastpacific.com/t/election-nominations-for-provost-of-the-71th-magisterium/20093",
+      "author": "Dimitri",
+      "date": "2026-09-25"
+    },
     {
       "title": "Public Disclosure Form : Hamborn",
       "url": "https://forum.theeastpacific.com/t/public-disclosure-form-hamborn/20092",
@@ -49,18 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/passed-space-transport-and-astronomical-research/20075",
       "author": "Bai_Lung",
       "date": "2026-09-12"
-    },
-    {
-      "title": "[PASSED] Commend The New Meritocracy",
-      "url": "https://forum.theeastpacific.com/t/passed-commend-the-new-meritocracy/20070",
-      "author": "Bai_Lung",
-      "date": "2026-09-08"
-    },
-    {
-      "title": "[PASSED] Spectrum Allocation and Coordination Act",
-      "url": "https://forum.theeastpacific.com/t/passed-spectrum-allocation-and-coordination-act/20069",
-      "author": "Bai_Lung",
-      "date": "2026-09-08"
     }
   ]
 }
