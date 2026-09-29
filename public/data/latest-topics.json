@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-29T09:09:08.891Z",
+  "updated": "2026-09-29T12:24:44.857Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[E-2026-47] Confirmation of Ladona as Provost of the 71st Magisterium",
+      "url": "https://forum.theeastpacific.com/t/e-2026-47-confirmation-of-ladona-as-provost-of-the-71st-magisterium/20103",
+      "author": "Dimitri",
+      "date": "2026-09-29"
+    },
     {
       "title": "[PROPOSAL] Disability Assistance Law",
       "url": "https://forum.theeastpacific.com/t/proposal-disability-assistance-law/20101",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/defeated-international-nuclear-compliance-commission/20083",
       "author": "Bai_Lung",
       "date": "2026-09-16"
-    },
-    {
-      "title": "[PASSED] Repeal: “Liberate Utopia”",
-      "url": "https://forum.theeastpacific.com/t/passed-repeal-liberate-utopia/20080",
-      "author": "Bai_Lung",
-      "date": "2026-09-14"
     }
   ]
 }
