@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-01T02:38:00.208Z",
+  "updated": "2026-10-01T04:57:19.691Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[T-2026-48] Ratification of the Treaty of Dawn and Dusk",
+      "url": "https://forum.theeastpacific.com/t/t-2026-48-ratification-of-the-treaty-of-dawn-and-dusk/20107",
+      "author": "Ladona",
+      "date": "2026-10-01"
+    },
     {
       "title": "[E-2026-47] Confirmation of Ladona as Provost of the 71st Magisterium",
       "url": "https://forum.theeastpacific.com/t/e-2026-47-confirmation-of-ladona-as-provost-of-the-71st-magisterium/20103",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/passed-repeal-commend-vilita-and-turori/20085",
       "author": "Bai_Lung",
       "date": "2026-09-18"
-    },
-    {
-      "title": "[DEFEATED] International Nuclear Compliance Commission",
-      "url": "https://forum.theeastpacific.com/t/defeated-international-nuclear-compliance-commission/20083",
-      "author": "Bai_Lung",
-      "date": "2026-09-16"
     }
   ]
 }
