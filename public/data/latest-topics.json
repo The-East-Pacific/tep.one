@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-07T09:25:28.126Z",
+  "updated": "2026-10-07T12:55:16.326Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[PROPOSAL] End Capital Punishment",
+      "url": "https://forum.theeastpacific.com/t/proposal-end-capital-punishment/20116",
+      "author": "Bai_Lung",
+      "date": "2026-10-07"
+    },
     {
       "title": "Urth Atlas, a new way to look at Urth!",
       "url": "https://forum.theeastpacific.com/t/urth-atlas-a-new-way-to-look-at-urth/20115",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/public-disclosure-form-hamborn/20092",
       "author": "Poluxia",
       "date": "2026-09-24"
-    },
-    {
-      "title": "Karishkanov",
-      "url": "https://forum.theeastpacific.com/t/karishkanov/20091",
-      "author": "Art_Sokala",
-      "date": "2026-09-23"
     }
   ]
 }
