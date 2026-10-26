@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-25T22:51:39.139Z",
+  "updated": "2026-10-26T01:55:43.026Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[Graduation] Aurora Yukihime of Albrook",
+      "url": "https://forum.theeastpacific.com/t/graduation-aurora-yukihime-of-albrook/20178",
+      "author": "Aurora_Yukihime",
+      "date": "2026-10-25"
+    },
     {
       "title": "[T-2026-49] Ratification of the Treaty of the Night Sky",
       "url": "https://forum.theeastpacific.com/t/t-2026-49-ratification-of-the-treaty-of-the-night-sky/20176",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/roll-call-october-2026-roll-call/20146",
       "author": "Ladona",
       "date": "2026-10-11"
-    },
-    {
-      "title": "Welcome aleksakavolta",
-      "url": "https://forum.theeastpacific.com/t/welcome-aleksakavolta/20145",
-      "author": "aleksakavolta",
-      "date": "2026-10-10"
     }
   ]
 }
