@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-28T17:28:43.307Z",
+  "updated": "2026-10-28T21:56:06.002Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "Resignation as Arbiter",
+      "url": "https://forum.theeastpacific.com/t/resignation-as-arbiter/20187",
+      "author": "Bachtendekuppen",
+      "date": "2026-10-28"
+    },
     {
       "title": "[PROPOSAL] Repeal: “Protecting Places of Cultural Significance”",
       "url": "https://forum.theeastpacific.com/t/proposal-repeal-protecting-places-of-cultural-significance/20186",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/availability-of-closed-session-contents-outside-of-a-formal-closed-session/20171",
       "author": "Dimitri",
       "date": "2026-10-23"
-    },
-    {
-      "title": "[Treaty Proposal] The Treaty of the Night Sky",
-      "url": "https://forum.theeastpacific.com/t/treaty-proposal-the-treaty-of-the-night-sky/20164",
-      "author": "Dremaur",
-      "date": "2026-10-20"
     }
   ]
 }
