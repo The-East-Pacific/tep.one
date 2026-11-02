@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-01T21:49:51.253Z",
+  "updated": "2026-11-02T02:54:22.164Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "Treaty of the Night Sky",
+      "url": "https://forum.theeastpacific.com/t/treaty-of-the-night-sky/20193",
+      "author": "Ladona",
+      "date": "2026-11-01"
+    },
     {
       "title": "[Nomination] Lionsroar and Domais for Arbiter",
       "url": "https://forum.theeastpacific.com/t/nomination-lionsroar-and-domais-for-arbiter/20191",
@@ -54,12 +60,6 @@
       "title": "[PASSED] International Civil Aviation Safety Standards Act",
       "url": "https://forum.theeastpacific.com/t/passed-international-civil-aviation-safety-standards-act/20173",
       "author": "Bai_Lung",
-      "date": "2026-10-23"
-    },
-    {
-      "title": "Idea test",
-      "url": "https://forum.theeastpacific.com/t/idea-test/20172",
-      "author": "Emjay",
       "date": "2026-10-23"
     }
   ]
