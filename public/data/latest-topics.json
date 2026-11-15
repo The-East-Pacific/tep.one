@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-15T09:59:57.112Z",
+  "updated": "2026-11-15T13:40:07.170Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
+    {
+      "title": "[PROPOSAL] General Assembly Authorship Guidelines",
+      "url": "https://forum.theeastpacific.com/t/proposal-general-assembly-authorship-guidelines/20215",
+      "author": "Bai_Lung",
+      "date": "2026-11-15"
+    },
     {
       "title": "Public Disclosure Form ~ Fensia",
       "url": "https://forum.theeastpacific.com/t/public-disclosure-form-fensia/20214",
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/nomination-lionsroar-and-domais-for-arbiter/20191",
       "author": "Dremaur",
       "date": "2026-10-31"
-    },
-    {
-      "title": "Resignation as Arbiter",
-      "url": "https://forum.theeastpacific.com/t/resignation-as-arbiter/20187",
-      "author": "Bachtendekuppen",
-      "date": "2026-10-28"
     }
   ]
 }
