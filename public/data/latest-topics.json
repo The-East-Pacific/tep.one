@@ -1,10 +1,16 @@
 {
-  "updated": "2026-11-19T04:40:41.106Z",
+  "updated": "2026-11-19T22:29:33.108Z",
   "source": "https://forum.theeastpacific.com/latest.rss",
   "items": [
     {
-      "title": "[PROPOSAL] General Assembly Authorship Guidelines",
-      "url": "https://forum.theeastpacific.com/t/proposal-general-assembly-authorship-guidelines/20215",
+      "title": "[PROPOSAL] Repeal: “Commend The Cat-Tribe”",
+      "url": "https://forum.theeastpacific.com/t/proposal-repeal-commend-the-cat-tribe/20221",
+      "author": "Bai_Lung",
+      "date": "2026-11-19"
+    },
+    {
+      "title": "[PASSED] General Assembly Authorship Guidelines",
+      "url": "https://forum.theeastpacific.com/t/passed-general-assembly-authorship-guidelines/20215",
       "author": "Bai_Lung",
       "date": "2026-11-15"
     },
@@ -55,12 +61,6 @@
       "url": "https://forum.theeastpacific.com/t/treaty-of-the-night-sky/20193",
       "author": "Ladona",
       "date": "2026-11-01"
-    },
-    {
-      "title": "[Nomination] Lionsroar and Domais for Arbiter",
-      "url": "https://forum.theeastpacific.com/t/nomination-lionsroar-and-domais-for-arbiter/20191",
-      "author": "Dremaur",
-      "date": "2026-10-31"
     }
   ]
 }
